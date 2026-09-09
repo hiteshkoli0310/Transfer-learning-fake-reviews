@@ -1,0 +1,5 @@
+distilbert_amazon/
+distilbert_0/
+models/
+__pycache__/
+.ipynb_checkpoints/
